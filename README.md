@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yangtera
-- 👀 I’m interested in openpiolt
-- 🌱 I’m currently learning openpiolt
+- 👀 I’m interested in openpilot
+- 🌱 I’m currently learning openpilot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
